@@ -9,6 +9,8 @@
 
 ---
 
+## Le projet étant en cours de développement, cette version( Codes téléversés) fonctionne sans écran et les résultats sont visibles via le moniteur série d'arduino IDE.
+---
 
 
 ## 📸 Aperçu du Système
@@ -20,7 +22,6 @@
 
 ---
 
-Le projet étant en cours de développement, cette version( Codes téléversés) fonctionne sans écran et les résultats sont visibles via le moniteur série d'arduino IDE.
 
 
 ## 🏗️ Architecture Technique
@@ -97,8 +98,8 @@ Le projet repose sur une architecture maître-esclave distribuée :
    * `Adafruit GFX Library`
    * `Adafruit ST7789 Library`
    * `Keypad` by Mark Stanley, Alexander Brevig
-2. Téléversez le code `Arduino_SmartCart.ino` sur l'Arduino Uno.
-3. Téléversez le code `CameraWebServer.ino` sur l'ESP32-CAM (pensez à maintenir `GPIO 0` au `GND` pendant le téléversement, puis à le débrancher et faire un Reset).
+2. Téléversez le code `ARDUINO1.ino` sur l'Arduino Uno.
+3. Téléversez le code `ESP32CAM1.ino` sur l'ESP32-CAM (pensez à maintenir `GPIO 0` au `GND` pendant le téléversement, puis à le débrancher et faire un Reset).
 
 ### 2. Configuration du Serveur Python OCR
 1. Clonez ce dépôt :
