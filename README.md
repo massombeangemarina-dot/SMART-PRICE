@@ -9,6 +9,8 @@
 
 ---
 
+Le projet étant en cours de développement, cette version( Codes téléversés) fonctionne sans écran et les résultats sont visibles via le moniteur série d'arduino IDE.
+
 ## 📸 Aperçu du Système
 
 * **Interface Utilisateur** : UI Dark Mode sur écran TFT 2.4" ST7789 (240x320) via SPI logiciel.
